@@ -1,0 +1,4 @@
+# MySQL DB parameters
+user=employee
+password=employee_pass
+url=jdbc:mysql://localhost:3306/hotel?noAccessToProcedureBodies=true
